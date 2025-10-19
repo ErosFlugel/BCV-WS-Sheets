@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Add your credentials.json from the sheets API to the src folder
+1. Add your credentials.json from the sheets API to the src/sheet folder
 2. Create a .env file in the root folder (BCV-WS-SHEETS) and fill the following variables within:
 
 - SHEET_ID="Insert here yout GOOGLE SHEET ID (followed by /d/ in the url)"
